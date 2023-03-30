@@ -1,5 +1,5 @@
 
-# Project Title
+# Codewars
 
 Codewars Katas/challenges solved
 
